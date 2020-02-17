@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<store storetype="CDshop">
+   <album catalog="song">
+     <name>help</name>
+     <author>beatles</author>
+     <heading>famers</heading>
+     <body>this is published in 1965.</body>
+	 <time>2011-02-20</time>
+   <type>CD</type></album>
+</store>

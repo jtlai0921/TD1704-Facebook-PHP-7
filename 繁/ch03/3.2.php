@@ -1,0 +1,16 @@
+﻿<HTML>
+<HEAD>
+    <TITLE>系統變數</TITLE>
+</HEAD>
+<BODY>
+<?php
+echo(__FILE__);
+echo"<p>";
+echo(__LINE__);
+echo"<p>";
+echo(PHP_VERSION);
+echo"<p>";
+echo(PHP_OS);
+?>
+</BODY>
+<HTML>
